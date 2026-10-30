@@ -1,0 +1,2 @@
+numpy>=1.26
+# optional: pyapril (ECA-B/ECA-S reference implementation) for cross-checks
